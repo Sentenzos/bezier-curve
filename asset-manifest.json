@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/%7Bbezier-curve%7D/static/css/main.3b7d6c49.chunk.css",
-    "main.js": "/%7Bbezier-curve%7D/static/js/main.1fe6a961.chunk.js",
-    "main.js.map": "/%7Bbezier-curve%7D/static/js/main.1fe6a961.chunk.js.map",
-    "runtime-main.js": "/%7Bbezier-curve%7D/static/js/runtime-main.f4d240de.js",
-    "runtime-main.js.map": "/%7Bbezier-curve%7D/static/js/runtime-main.f4d240de.js.map",
-    "static/js/2.e46b7c0b.chunk.js": "/%7Bbezier-curve%7D/static/js/2.e46b7c0b.chunk.js",
-    "static/js/2.e46b7c0b.chunk.js.map": "/%7Bbezier-curve%7D/static/js/2.e46b7c0b.chunk.js.map",
-    "index.html": "/%7Bbezier-curve%7D/index.html",
-    "precache-manifest.a236d3c1a73ec3ab9ba606675cedbcdf.js": "/%7Bbezier-curve%7D/precache-manifest.a236d3c1a73ec3ab9ba606675cedbcdf.js",
-    "service-worker.js": "/%7Bbezier-curve%7D/service-worker.js",
-    "static/css/main.3b7d6c49.chunk.css.map": "/%7Bbezier-curve%7D/static/css/main.3b7d6c49.chunk.css.map",
-    "static/js/2.e46b7c0b.chunk.js.LICENSE.txt": "/%7Bbezier-curve%7D/static/js/2.e46b7c0b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/%7Bbezier-curve%7D/static/media/Kanit-Regular.a82c4c3b.ttf"
+    "main.css": "/bezier-curve/static/css/main.a933f301.chunk.css",
+    "main.js": "/bezier-curve/static/js/main.d2736063.chunk.js",
+    "main.js.map": "/bezier-curve/static/js/main.d2736063.chunk.js.map",
+    "runtime-main.js": "/bezier-curve/static/js/runtime-main.838266c4.js",
+    "runtime-main.js.map": "/bezier-curve/static/js/runtime-main.838266c4.js.map",
+    "static/js/2.e46b7c0b.chunk.js": "/bezier-curve/static/js/2.e46b7c0b.chunk.js",
+    "static/js/2.e46b7c0b.chunk.js.map": "/bezier-curve/static/js/2.e46b7c0b.chunk.js.map",
+    "index.html": "/bezier-curve/index.html",
+    "precache-manifest.774c9d734b132fbf93752ba3e3cc4eb6.js": "/bezier-curve/precache-manifest.774c9d734b132fbf93752ba3e3cc4eb6.js",
+    "service-worker.js": "/bezier-curve/service-worker.js",
+    "static/css/main.a933f301.chunk.css.map": "/bezier-curve/static/css/main.a933f301.chunk.css.map",
+    "static/js/2.e46b7c0b.chunk.js.LICENSE.txt": "/bezier-curve/static/js/2.e46b7c0b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bezier-curve/static/media/Kanit-Regular.a82c4c3b.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4d240de.js",
+    "static/js/runtime-main.838266c4.js",
     "static/js/2.e46b7c0b.chunk.js",
-    "static/css/main.3b7d6c49.chunk.css",
-    "static/js/main.1fe6a961.chunk.js"
+    "static/css/main.a933f301.chunk.css",
+    "static/js/main.d2736063.chunk.js"
   ]
 }
